@@ -19,7 +19,7 @@ Perfect for beginners and a portfolio-friendly project!
    ```
 
    Navigate to the project folder:
-   cd tictactoe-reactnative
+   cd tictactoe
 
    Install dependencies:
    npm install
