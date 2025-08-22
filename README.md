@@ -15,7 +15,8 @@ Perfect for beginners and a portfolio-friendly project!
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/treseniomia/tictactoe-reactnative.git
+   git clone https://github.com/miatresenio/tictactoe-rn-expo.git
+   
    ```
 
    Navigate to the project folder:
