@@ -32,6 +32,12 @@ Perfect for beginners and a portfolio-friendly project!
 
 ![App Screenshot](./assets/images/home.png)
 
+
+## Developer
+
+Developed by Mia Myca Tresenio
+
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
