@@ -2,7 +2,7 @@
 
 A simple Tic-Tac-Toe game built using React Native and Expo.  
 This project demonstrates my skills in mobile UI development, state management, and handling basic game logic.  
-Perfect for beginners and a portfolio-friendly project!
+
 
 ## Features
 
