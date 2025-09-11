@@ -8,7 +8,7 @@ This project demonstrates my skills in mobile UI development, state management, 
 
 - Playable 2-player mode
 - Clear and responsive UI
-- Built with Expo and React Native
+- Built with React Native and Expo
 
 ## Installation
 
