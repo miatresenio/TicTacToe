@@ -35,7 +35,7 @@ This project demonstrates my skills in state management, and handling basic game
 
 ## Developer
 
-Developed by Mia Myca Tresenio
+Developed by Mia Myca N. Tresenio
 
 
 ## License
