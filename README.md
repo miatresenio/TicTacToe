@@ -41,3 +41,5 @@ Developed by Mia Myca N. Tresenio
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+# Upload to Playstore & App Store
