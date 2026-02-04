@@ -41,4 +41,4 @@ Developed by Mia Tresenio
 
 This project is licensed under the [MIT License](./LICENSE).
 
-# Upload to Playstore & App Store
+## Upld t Pstore & AppStore
