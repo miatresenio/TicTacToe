@@ -1,13 +1,4 @@
-# Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game built using React Native and Expo. This project demonstrates my skills in state management, and handling basic game logic.  
-
-
-## Features
-
-- Playable 2-player mode
-- Clear and responsive UI
-- Built with React Native and Expo
 
 ## Installation
 
@@ -41,4 +32,4 @@ Developed by Mia Tresenio
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## Upld t Pstore & AppStore
+
